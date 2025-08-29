@@ -1,0 +1,5 @@
+{
+  "name": "Stock Asset Metadata Generator",
+  "description": "An application to automatically generate titles, descriptions, and keywords for stock assets (like images and videos) for various marketplaces using Gemini.",
+  "requestFramePermissions": []
+}
